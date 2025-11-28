@@ -1,1 +1,5 @@
-src/
+src/vendor/
+src/var/
+src/pub/static/
+src/generated/
+src/pub/media/catalog/product/cache/
